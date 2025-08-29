@@ -96,5 +96,3 @@ You can add Kubernetes manifests, Helm, or Docker Compose commands in the **Depl
 * `trivy_report.txt` is archived as a build artifact for every pipeline run.
 
 ---
-
-Would you like me to also include a **diagram (workflow pipeline image in Markdown)** so your README looks more professional?
